@@ -1,2 +1,2 @@
-# sprint2java
+# sprint2java - APP StockAgil
 Entrega Sprint2
